@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🎓 I'm currently studying for a bachelor's degree (3rd year)  <br>in Applied Computer Science at Moscow Polytechnic University.<br>📚 I’m currently learning Android Development<br>🎯 Goals: Get a job 🤞</p>
+<p align="left">🎓 I'm currently studying for a bachelor's degree (3rd year)  <br>in Applied Computer Science at Moscow Polytechnic University.</p>
 
 ###
 
